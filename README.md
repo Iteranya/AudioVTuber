@@ -19,4 +19,4 @@ Installation coming soon, I haven't even started yet.
 - Make a simple UI to set things up
 - Add the AI Model integration
 - Make a better AI Model (the current one uses OpenSense, good, but not enough emotion)
-
+- Add more features as they came along
