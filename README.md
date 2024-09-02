@@ -14,9 +14,12 @@ Installation coming soon, I haven't even started yet.
 
 ## ToDo:
 
-- Make a Window to Show the Vtuber
-- Toggle with numbers, for now
-- Make a simple UI to set things up
-- Add the AI Model integration
-- Make a better AI Model (the current one uses OpenSense, good, but not enough emotion)
-- Add more features as they came along
+[x] Make a Window to Show the Vtuber
+[x] Toggle with numbers, for now
+[ ] Make a simple UI to set things up
+[ ] Add voice integration (with audio driver selection)
+[ ] Add the AI Model integration
+[ ] Make a better AI Model (the current one uses OpenSense, good, but not enough emotion)
+[ ] Add Transparent Window Support
+[ ] Test with OBS
+[ ] Make a video about it so someone smarter than me can improve it
