@@ -36,13 +36,13 @@ while running:
         if event.type == pygame.QUIT:
             running = False
         elif event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_1:  # Key '1' to show default image
+            if event.key == pygame.K_1:
                 current_image = default_image
-            elif event.key == pygame.K_2:  # Key '2' to show happy image
+            elif event.key == pygame.K_2:
                 current_image = happy_image
-            elif event.key == pygame.K_3:  # Key '3' to show sad image
+            elif event.key == pygame.K_3:
                 current_image = sad_image
-            elif event.key == pygame.K_4:  # Key '3' to show sad image
+            elif event.key == pygame.K_4:
                 current_image = bronya
 
     # Clear screen
